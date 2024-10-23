@@ -4,8 +4,8 @@ data:extend(
 		type = "technology",
 		name = "night-vision-mk2-equipment",
 		icon_size = 256, icon_mipmaps = 4,
-		icons = util.technology_icon_constant_equipment("__nightvision_progression__/graphics/technology/night-vision-mk2-equipment.png"),
-		prerequisites = {"night-vision-equipment", "advanced-electronics-2"},
+		icons = util.technology_icon_constant_equipment("__nightvision_progression-fork__/graphics/technology/night-vision-mk2-equipment.png"),
+		prerequisites = {"night-vision-equipment", "advanced-circuit"},
 		effects =
 		{
 		  {
@@ -25,8 +25,8 @@ data:extend(
 		type = "technology",
 		name = "night-vision-mk3-equipment",
 		icon_size = 256, icon_mipmaps = 4,
-		icons = util.technology_icon_constant_equipment("__nightvision_progression__/graphics/technology/night-vision-mk3-equipment.png"),
-		prerequisites = {"night-vision-mk2-equipment", "effectivity-module-3"},
+		icons = util.technology_icon_constant_equipment("__nightvision_progression-fork__/graphics/technology/night-vision-mk3-equipment.png"),
+		prerequisites = {"night-vision-mk2-equipment", "efficiency-module-3"},
 		effects =
 		{
 		  {
