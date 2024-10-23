@@ -35,7 +35,6 @@ data:extend(
 		{
 			type = "night-vision-equipment",
 			name = "night-vision-mk3-equipment",
-			take_result = "night-vision-mk2-equipment",
 			sprite =
 			{
 				filename = "__nightvision_progression-fork__/graphics/equipment/night-vision-mk3-equipment.png",
