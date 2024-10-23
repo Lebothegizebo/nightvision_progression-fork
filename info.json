@@ -1,0 +1,10 @@
+{
+    "name": "nightvision_progression-fork",
+    "version": "2.0.0",
+    "title": "Nightvision Progression",
+    "author": ["xCrane","Lebothegizebo"]
+    "homepage": "https://mods.factorio.com/mod/nightvision_progression",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Adds 2 advanced Nightvisions with extra research, better nightvision and smaller gridsize. Forked and updated to Factorio 2.0 by Lebothegizebo."
+}
