@@ -14,7 +14,7 @@ data:extend(
 			shape =
 			{
 				width = 2,
-				height = 1,
+				height = 2,
 				type = "full"
 			},
 			energy_source =
@@ -44,8 +44,8 @@ data:extend(
 			},
 			shape =
 			{
-				width = 1,
-				height = 1,
+				width = 2,
+				height = 2,
 				type = "full"
 			},
 			energy_source =

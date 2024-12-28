@@ -5,7 +5,7 @@ data:extend(
 		name = "night-vision-mk2-equipment",
 		icon_size = 256, icon_mipmaps = 4,
 		icons = util.technology_icon_constant_equipment("__nightvision_progression-fork__/graphics/technology/night-vision-mk2-equipment.png"),
-		prerequisites = {"night-vision-equipment", "advanced-circuit"},
+		prerequisites = {"night-vision-equipment", "processing-unit"},
 		effects =
 		{
 		  {

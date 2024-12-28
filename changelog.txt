@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2024-12-28
+  Changes:
+    - Slightly rebalenced the nightvison equipment so that all nightvision equipment is now the same size.
+  Bugfixes:
+    - Fixed Nightvision MK2 technology so it requires the processing unit technology.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 23.10.2024
   Info:
