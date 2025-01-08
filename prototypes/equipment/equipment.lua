@@ -1,3 +1,10 @@
+if settings.startup[nightvision-progression-enable-old-gridsize] = "true" then
+width={2,1}
+height={1,1}
+else
+width= {2,2}
+height= {2,2}
+end
 data:extend(
 	{  
 		{
@@ -13,8 +20,8 @@ data:extend(
 			
 			shape =
 			{
-				width = 2,
-				height = 2,
+				width = width[1],
+				height = height[1],
 				type = "full"
 			},
 			energy_source =
@@ -44,8 +51,8 @@ data:extend(
 			},
 			shape =
 			{
-				width = 2,
-				height = 2,
+				width = width[2],
+				height = height[2],
 				type = "full"
 			},
 			energy_source =
