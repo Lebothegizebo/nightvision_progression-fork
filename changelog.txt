@@ -1,11 +1,11 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.2
-Date: 2025-1-8
+Date: 2025.1.8
   Changes:
     - Added mod startup setting to enable/disable the old equipment gridsizes prior to V2.0.1
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.1
-Date: 2024-12-28
+Date: 2024.12.28
   Changes:
     - Slightly rebalenced the nightvison equipment so that all nightvision equipment is now the same size.
   Bugfixes:
