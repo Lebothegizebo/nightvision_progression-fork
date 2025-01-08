@@ -1,7 +1,9 @@
-if settings.startup[nightvision-progression-enable-old-gridsize] = "true" then
+if settings.startup["nightvision-progression-enable-old-gridsize"].value then
+	print("DATA:DEBUG OLD GRID")
 width={2,1}
 height={1,1}
 else
+	print("DATA:DEBUG NEW GRID")
 width= {2,2}
 height= {2,2}
 end
